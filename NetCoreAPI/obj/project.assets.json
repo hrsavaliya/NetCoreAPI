@@ -12931,7 +12931,7 @@
       ]
     },
     "System.ValueTuple/4.5.0": {
-      "sha512": "+gDrtQRdEsUSdPZEEcVRmBvs6xJmqGBqRzEGMQm5XqHxWTkZe/PSuomdth5ZPcOb/Oh2kIu6NChoI1JQk649jg==",
+      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
       "type": "package",
       "path": "system.valuetuple/4.5.0",
       "files": [
@@ -13336,11 +13336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\NetCore2JWTRoleBasedAuth-master\\NetCoreWebApi\\JWTRoleBasedAuth.csproj",
-      "projectName": "JWTRoleBasedAuth",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\NetCore2JWTRoleBasedAuth-master\\NetCoreWebApi\\JWTRoleBasedAuth.csproj",
+      "projectUniqueName": "D:\\Hitesh\\Misc\\Github\\NetCoreAPI\\NetCoreAPI\\NetCoreAPI.csproj",
+      "projectName": "NetCoreAPI",
+      "projectPath": "D:\\Hitesh\\Misc\\Github\\NetCoreAPI\\NetCoreAPI\\NetCoreAPI.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\NetCore2JWTRoleBasedAuth-master\\NetCoreWebApi\\obj\\",
+      "outputPath": "D:\\Hitesh\\Misc\\Github\\NetCoreAPI\\NetCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,7 +14,7 @@ using JWTRoleBasedAuth.EntityContext;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NetCoreWebApi
+namespace NetCoreAPI
 {
     public class Startup
     {

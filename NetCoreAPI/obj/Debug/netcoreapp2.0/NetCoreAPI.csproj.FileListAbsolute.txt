@@ -1,0 +1,10 @@
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.0\NetCoreAPI.deps.json
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.0\NetCoreAPI.runtimeconfig.json
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.0\NetCoreAPI.runtimeconfig.dev.json
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.0\NetCoreAPI.dll
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.0\NetCoreAPI.pdb
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.0\NetCoreAPI.csproj.CoreCompileInputs.cache
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.0\NetCoreAPI.AssemblyInfoInputs.cache
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.0\NetCoreAPI.AssemblyInfo.cs
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.0\NetCoreAPI.dll
+D:\Hitesh\Misc\Github\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.0\NetCoreAPI.pdb

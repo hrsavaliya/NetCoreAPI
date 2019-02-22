@@ -13,7 +13,7 @@ using AutoMapper;
 using JWTRoleBasedAuth.EntityContext;
 using System.Linq;
 
-namespace NetCoreWebApi.Controllers
+namespace NetCoreAPI.Controllers
 {
     [Route("/api/User")]
     public class UsersController : Controller
